@@ -1,0 +1,6 @@
+Linked List 
+- collection of nodes
+
+- node is collection  of two things
+   -data
+    - next node reference
